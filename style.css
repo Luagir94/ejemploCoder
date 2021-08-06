@@ -9,11 +9,11 @@
             list-style: none;
             font-size: 2rem;
             justify-content: space-evenly;
-            background-color: green;
+            background-color: pink;
         }
         .navBar li{
             margin: 2rem;
-            background-color: blue;
+            background-color: red;
         }
         
         
